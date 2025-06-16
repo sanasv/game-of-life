@@ -12,7 +12,7 @@ This repository contains a Java implementation of **Conway's Game of Life**, a c
 ```bash
 cd ~/Desktop
 java -jar "GameOfLife.jar"
-
+```
 > 💡 Make sure you have Java installed (Java 8 or later).
 
 The application will launch a GUI window where you can visualize the evolution of the grid based on the Game of Life rules.
