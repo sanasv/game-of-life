@@ -5,7 +5,7 @@ This repository contains a Java implementation of **Conway's Game of Life**, a c
 
 ## 🔗 How to Run
 
-1. Download the `GameOfLife.jar` file from the repository or releases.
+1. Download the `GameOfLife.jar` file from the repository.
 2. Move the file to your Desktop (or any preferred location).
 3. Open **Terminal** and run the following commands:
 
