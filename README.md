@@ -3,9 +3,15 @@
 
 This repository contains a Java implementation of **Conway's Game of Life**, a cellular automaton devised by mathematician John Horton Conway. The simulation evolves based on a set of simple rules applied to a grid of cells, producing surprisingly complex behavior.
 
-## 🔗 Download
+## 🔗 How to Run
 
-You can download the `GameOfLife.jar` directly from the repository file and directly launch it.
+1. Download the `GameOfLife.jar` file from the repository or releases.
+2. Move the file to your Desktop (or any preferred location).
+3. Open **Terminal** and run the following commands:
+
+```bash
+cd ~/Desktop
+java -jar "GameOfLife.jar"
 
 > 💡 Make sure you have Java installed (Java 8 or later).
 
