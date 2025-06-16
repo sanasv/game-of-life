@@ -1,8 +1,4 @@
-Great! Here's a clean and professional `README.md` file for your Conway's Game of Life `.jar` project on GitHub:
 
----
-
-````markdown
 # Conway's Game of Life (Java)
 
 This repository contains a Java implementation of **Conway's Game of Life**, a cellular automaton devised by mathematician John Horton Conway. The simulation evolves based on a set of simple rules applied to a grid of cells, producing surprisingly complex behavior.
@@ -12,8 +8,6 @@ This repository contains a Java implementation of **Conway's Game of Life**, a c
 You can download the `GameOfLife.jar` directly from the repository file and directly launch it.
 
 > 💡 Make sure you have Java installed (Java 8 or later).
-
-````
 
 The application will launch a GUI window where you can visualize the evolution of the grid based on the Game of Life rules.
 
